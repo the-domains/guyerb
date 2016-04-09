@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[guyerb]]></title>
         <description><![CDATA[guyerb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guyerb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:56:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 20:14:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guyerb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c4abf5-41b7-4cee-ad68-b474ddbc787b.jpg">]]></description>
+            <link>https://thegrid.ai/guyerb/ef1a4c01-277a-4b86-8613-17a404b3697b/index.html</link>
+            <guid isPermaLink="false">ef1a4c01-277a-4b86-8613-17a404b3697b</guid>
+            <pubDate>Sat, 09 Apr 2016 20:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdbf1b11-f215-46ba-a30d-87ec5ae3aeb9.jpg">]]></description>
-            <link>undefined8b5f4615-10a4-4cbe-b217-9e18e15c9461/index.html</link>
+            <link>https://thegrid.ai/guyerb/8b5f4615-10a4-4cbe-b217-9e18e15c9461/index.html</link>
             <guid isPermaLink="false">8b5f4615-10a4-4cbe-b217-9e18e15c9461</guid>
             <pubDate>Sat, 09 Apr 2016 19:55:48 GMT</pubDate>
         </item>

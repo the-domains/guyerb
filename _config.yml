@@ -1,28 +1,40 @@
-name: guyerb
 favicon: null
-layout_spectrum: 0.16319456114433706
-typography_spectrum: 0.5175289204344153
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: guyerb
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4551971
+  brandStrength: 0.8780246977694333
+  lightness: 0.6917562
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8780246977694333
-  lightness: 0.8653313389513642
-  saturation: 0.06803018832579255
-  rhythmicContrast: 0.7050567530095577
-purpose: []
+  rhythmicContrast: 0.5806451
+typography_spectrum: 0.5175289204344153
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1631945611443371
+analytics:
+  twitter: null
+  google: null
+  facebook: null

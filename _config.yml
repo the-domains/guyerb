@@ -1,5 +1,4 @@
-favicon: null
-name: guyerb
+layout_spectrum: 0.1631945611443371
 opengraph:
   image: null
   type: null
@@ -20,7 +19,7 @@ purpose: []
 color:
   saturation: 0.4551971
   brandStrength: 0.8780246977694333
-  lightness: 0.6917562
+  lightness: 0.5394265
   brandColors:
     - '#A690A4'
     - '#B68F9D'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1631945611443371
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: guyerb

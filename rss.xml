@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[guyerb]]></title>
-        <description><![CDATA[guyerb]]></description>
+        <title><![CDATA[Cabañas Tres Rios]]></title>
+        <description><![CDATA[Cabañas Tres Rios]]></description>
         <link>https://thegrid.ai/guyerb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 22:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 22:30:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guyerb/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5dc4d63-5720-4f31-ac65-0bf96a536b15.jpg">]]></description>
-            <link>https://thegrid.ai/guyerb/16efbe9a-72f2-4531-baa2-ba26154687a4/index.html</link>
-            <guid isPermaLink="false">16efbe9a-72f2-4531-baa2-ba26154687a4</guid>
-            <pubDate>Sat, 09 Apr 2016 22:08:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c4abf5-41b7-4cee-ad68-b474ddbc787b.jpg">]]></description>
